@@ -1,6 +1,13 @@
-# Prerequisites
+# Prerequis
 
-Gitlab >= 7.7
+- Gitlab >= 7.7
+- node.js >= 0.4.0
+
+# Installation dans le client
+
+    npm install passport-gitlab
+
+# Usage
 
 ```
 var GitlabStrategy = require('passport-gitlab').Strategy;
