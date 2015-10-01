@@ -3,6 +3,10 @@
   "version": "0.5.0",
   "description": "Passport strategy for gitlab using oauth2",
   "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.sirap.fr:SWAP/passport-gitlab.git"
+  },
   "dependencies": {
     "passport-oauth": "1.x.x",
     "util" : "0.x.x"
