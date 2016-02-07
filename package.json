@@ -8,7 +8,7 @@
     "url": "git@gitlab.sirap.fr:SWAP/passport-gitlab.git"
   },
   "dependencies": {
-    "passport-oauth": "1.x.x",
+    "passport-oauth2": "1.x.x",
     "util" : "0.x.x"
   },
   "engines": {
