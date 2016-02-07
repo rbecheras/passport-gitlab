@@ -1,6 +1,6 @@
 {
   "name": "passport-gitlab",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "description": "Passport strategy for gitlab using oauth2",
   "main": "./lib",
   "repository": {
